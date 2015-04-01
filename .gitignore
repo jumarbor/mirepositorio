@@ -1,0 +1,9 @@
+
+.idea
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db
+node_modules
+.config.json
+client/bower_components
